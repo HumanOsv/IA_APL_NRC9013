@@ -6,31 +6,31 @@ El enfoque de la asignatura es práctico, y se basa en clases teóricas y práct
 
 Los principales objetivos de la asignatura son:
 
-•	Introducir conceptos básicos de Inteligencia Artificial: agentes, búsqueda, representación del conocimiento, aprendizaje automático, etc.
+  •	Introducir conceptos básicos de Inteligencia Artificial: agentes, búsqueda, representación del conocimiento, aprendizaje automático, etc.
 
-•	Estudiar distintas técnicas de IA como redes neuronales, algoritmos genéticos, sistemas expertos, etc.
+  •	Estudiar distintas técnicas de IA como redes neuronales, algoritmos genéticos, sistemas expertos, etc.
 
-•	Aprender a diseñar e implementar aplicaciones de IA para resolver problemas del mundo real.
+  •	Aprender a diseñar e implementar aplicaciones de IA para resolver problemas del mundo real.
 
-•	Analizar el impacto de la IA en distintos ámbitos: salud, educación, empresa, etc.
+  •	Analizar el impacto de la IA en distintos ámbitos: salud, educación, empresa, etc.
 
-•	Desarrollar un pensamiento crítico sobre las implicaciones éticas de la IA.
+  •	Desarrollar un pensamiento crítico sobre las implicaciones éticas de la IA.
 
 Los contenidos de la asignatura son:
 
-•	Introducción a la IA
+  •	Introducción a la IA
 
-o	Conceptos básicos y agentes inteligentes.
+    o	Conceptos básicos y agentes inteligentes.
 
-•	Aplicaciones de IA
+  •	Aplicaciones de IA
 
-o	Chatbots y procesamiento de lenguaje natural. Comprensión del lenguaje natural para automatizar conversaciones.
+    o	Chatbots y procesamiento de lenguaje natural. Comprensión del lenguaje natural para automatizar conversaciones.
 
-o	Análisis de imágenes y visión computacional. Clasificación y detección de objetos en imágenes.
+    o	Análisis de imágenes y visión computacional. Clasificación y detección de objetos en imágenes.
 
-o	Procesamiento de datos satelitales. Análisis de imágenes de satélites para agricultura, meteorología, etc.
+    o	Procesamiento de datos satelitales. Análisis de imágenes de satélites para agricultura, meteorología, etc.
 
-o	Casos de uso de IA. Asistentes virtuales, vehículos autónomos, detección de fraudes, etc.
+    o	Casos de uso de IA. Asistentes virtuales, vehículos autónomos, detección de fraudes, etc.
 
 Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los conceptos y métodos para aplicarlos a IA. El método de enseñanza se centra en la revisión del desempeño o de control del estudiante, a partir de, la exposición del docente y posterior evaluación formativa y sumativa de las actividades desarrolladas en conjunto con el docente, en grupos colaborativos e individualmente; prevaleciendo el trabajo autónomo de cada estudiante.
 
