@@ -1,4 +1,4 @@
-# Taller de Aplicaciónes a la Inteligencia Artificial
+# NRC9013: Taller de Aplicaciónes a la Inteligencia Artificial
 
 La asignatura de Aplicaciones de la Inteligencia Artificial es un curso que introduce a los estudiantes en el campo de la Inteligencia Artificial (IA) y sus aplicaciones prácticas en diversas áreas. La IA es un conjunto de técnicas y algoritmos que permiten a las máquinas imitar la inteligencia humana para realizar tareas y tomar decisiones. La asignatura se centra en enseñar a los estudiantes cómo diseñar e implementar aplicaciones de IA para resolver problemas del mundo real en campos como la salud, la educación, la empresa y más.
 
