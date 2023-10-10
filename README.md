@@ -50,15 +50,13 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 * Presentación 1 [link 1](https://www.dropbox.com/scl/fo/l0xxjl363veq2bb29muht/h?rlkey=9bjv0c11gvfsa2l0sl2cbp925&dl=0).
 * Presentación 2 [link 2](https://www.dropbox.com/scl/fo/qco1u8tcjkln3ezs1efvh/h?rlkey=wa8ley75s3yqxfb67j8987x62&dl=0).
 * Presentación 3 [link 3](https://www.dropbox.com/scl/fo/ev922vwcdpxgicnb6dznk/h?rlkey=yauwv2eq6gcrkp5uxnsky0fen&dl=0).
-* 
 
 ### Rubricas
 
 * Presentaciónes articulos cientificos [link 1](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
 * Proyecto final [link 2](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
-* 
 
 ### Clases videos
 
 * Links [link 1](https://www.dropbox.com/scl/fi/yt0j85mfwp68rliqr0ca4/Videos.docx?rlkey=rncoshzfz3pwyeok7ahws17zo&dl=0).
-* 
+
