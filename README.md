@@ -34,3 +34,31 @@ Los contenidos de la asignatura son:
 
 Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los conceptos y métodos para aplicarlos a IA. El método de enseñanza se centra en la revisión del desempeño o de control del estudiante, a partir de, la exposición del docente y posterior evaluación formativa y sumativa de las actividades desarrolladas en conjunto con el docente, en grupos colaborativos e individualmente; prevaleciendo el trabajo autónomo de cada estudiante.
 
+### Programa curso
+
+* Programa curso IA [link 1](https://www.dropbox.com/scl/fi/jfkm8hziodz92g4lkfhgt/Programa_IA.pdf?rlkey=1m77f4cy0c5re1vmfxgohfgu9&dl=0).
+
+### Topicos curso 
+
+* Introduccion Inteligencia Artificial [link 1](https://www.dropbox.com/scl/fo/gx0r10sqh4p3in7fms606/h?rlkey=fgepftu1x08pfowfk6egsi87i&dl=0).
+* ChatBots [link 2](https://www.dropbox.com/scl/fo/8qjcg20au86wc7etwao0c/h?rlkey=69ybwb1xbjus8o51ddv5anx95&dl=0).
+* Procesamiento del lenguaje natural [link 3](https://www.dropbox.com/scl/fo/i21hcmawad1sykym4gncz/h?rlkey=g7dzmrraoh2s4u49oa9ibkkq0&dl=0).
+* 
+
+### Articulos Presentaciones
+
+* Presentación 1 [link 1](https://www.dropbox.com/scl/fo/l0xxjl363veq2bb29muht/h?rlkey=9bjv0c11gvfsa2l0sl2cbp925&dl=0).
+* Presentación 2 [link 2](https://www.dropbox.com/scl/fo/qco1u8tcjkln3ezs1efvh/h?rlkey=wa8ley75s3yqxfb67j8987x62&dl=0).
+* Presentación 3 [link 3](https://www.dropbox.com/scl/fo/ev922vwcdpxgicnb6dznk/h?rlkey=yauwv2eq6gcrkp5uxnsky0fen&dl=0).
+* 
+
+### Rubricas
+
+* Presentaciónes articulos cientificos [link 1](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
+* Proyecto final [link 2](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
+* 
+
+### Clases videos
+
+* Links [link 1](https://www.dropbox.com/scl/fi/yt0j85mfwp68rliqr0ca4/Videos.docx?rlkey=rncoshzfz3pwyeok7ahws17zo&dl=0).
+* 
