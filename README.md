@@ -58,7 +58,7 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 
 ### Clases videos
 
-* Links [link 1](https://www.dropbox.com/scl/fi/yt0j85mfwp68rliqr0ca4/Videos.docx?rlkey=rncoshzfz3pwyeok7ahws17zo&dl=0).
+* Links [link 1]().
 
 ### Link Carpeta Proyecto Final aplicado
 
