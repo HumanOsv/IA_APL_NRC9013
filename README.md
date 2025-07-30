@@ -44,7 +44,7 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 * ChatBots [link 2](https://www.dropbox.com/scl/fo/8qjcg20au86wc7etwao0c/h?rlkey=69ybwb1xbjus8o51ddv5anx95&dl=0).
 * Procesamiento del lenguaje natural [link 3](https://www.dropbox.com/scl/fo/i21hcmawad1sykym4gncz/h?rlkey=g7dzmrraoh2s4u49oa9ibkkq0&dl=0).
 * Vision Computacional [link 4](https://www.dropbox.com/scl/fo/m2kmhwpwg9mtrih8cya7o/h?rlkey=lsgova8r8ozq44ymlmgta7z02&dl=0)
-* Inteligencia Artificial en Geomática y Agricultura de Precisión Vision Computacional [link 5](https://www.dropbox.com/scl/fo/393pmg1o6moq2la5viixl/ADWsRrMSDl8TtM7pGpQtgTk?rlkey=d5964voivwcrdreo05wk8nybc&dl=0)
+* Inteligencia Artificial en Geomática y Agricultura de Precisión [link 5](https://www.dropbox.com/scl/fo/393pmg1o6moq2la5viixl/ADWsRrMSDl8TtM7pGpQtgTk?rlkey=d5964voivwcrdreo05wk8nybc&dl=0)
 
 ### Articulos Presentaciones
 
