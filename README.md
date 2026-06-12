@@ -1,4 +1,5 @@
-![Última actualización](https://shields.io)
+![Last Commit](https://img.shields.io/github/last-commit/HumanOsv/DataScienceEngineering?style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/HumanOsv/DataScienceEngineering)
 
 # Taller de Aplicaciónes a la Inteligencia Artificial
 
