@@ -36,34 +36,28 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 
 ### Programa curso
 
-* Programa curso IA [link 1](https://www.dropbox.com/scl/fi/jfkm8hziodz92g4lkfhgt/Programa_IA.pdf?rlkey=1m77f4cy0c5re1vmfxgohfgu9&dl=0).
+* Programa curso IA [link 1](https://www.dropbox.com/scl/fi/yks4exijmz2xf2lqel3q1/202610CDD5018.pdf?rlkey=2ajk1f4tt3mq3bwqvb70od43u&dl=0).
 
 ### Topicos curso 
 
 * Introduccion Inteligencia Artificial [link 1](https://www.dropbox.com/scl/fo/gx0r10sqh4p3in7fms606/h?rlkey=fgepftu1x08pfowfk6egsi87i&dl=0).
-* ChatBots [link 2](https://www.dropbox.com/scl/fo/8qjcg20au86wc7etwao0c/h?rlkey=69ybwb1xbjus8o51ddv5anx95&dl=0).
-* Procesamiento del lenguaje natural [link 3](https://www.dropbox.com/scl/fo/i21hcmawad1sykym4gncz/h?rlkey=g7dzmrraoh2s4u49oa9ibkkq0&dl=0).
-* Vision Computacional [link 4](https://www.dropbox.com/scl/fo/m2kmhwpwg9mtrih8cya7o/h?rlkey=lsgova8r8ozq44ymlmgta7z02&dl=0)
-* Inteligencia Artificial en Geomática y Agricultura de Precisión [link 5](https://www.dropbox.com/scl/fo/393pmg1o6moq2la5viixl/ADWsRrMSDl8TtM7pGpQtgTk?rlkey=d5964voivwcrdreo05wk8nybc&dl=0)
+* ChatBots [link 2](https://www.dropbox.com/scl/fo/9sjqe8trbhu2epx1k050w/AOuV7LyBUMSwMeXBgpeIsHs?rlkey=v8jho3u106vqraythoi3l94ib&dl=0).
+* Procesamiento del lenguaje natural [link 3](https://www.dropbox.com/scl/fo/6mw0jyak8emp4iztml3ow/AIWBybYaIMxrGE6-Kyu30hE?rlkey=hosoo1jr0gkrgtzmtt9igfi2n&dl=0).
+* Vision Computacional [link 4](https://www.dropbox.com/scl/fo/otbdm1hpse8n0xlanqd3e/AEEIADYb_Ow9jZjfgJ6g7Dg?rlkey=dh6rxtgtpu14g6tkdw2ca1dex&dl=0)
+* Inteligencia Artificial en Geomática y Agricultura de Precisión [link 5](https://www.dropbox.com/scl/fo/lxa64mrj61mojsp2fc9rq/AF2lQ81Ghgpc2KrVv3sUZzo?rlkey=0wxknfsw19bvwj9djs0nczaz8&dl=0)
 
 ### Articulos Presentaciones
 
-* Presentación 1 [link 1](https://www.dropbox.com/scl/fo/l0xxjl363veq2bb29muht/h?rlkey=9bjv0c11gvfsa2l0sl2cbp925&dl=0).
-* Presentación 2 [link 2](https://www.dropbox.com/scl/fo/qco1u8tcjkln3ezs1efvh/h?rlkey=wa8ley75s3yqxfb67j8987x62&dl=0).
-* Presentación 3 [link 3](https://www.dropbox.com/scl/fo/ev922vwcdpxgicnb6dznk/h?rlkey=yauwv2eq6gcrkp5uxnsky0fen&dl=0).
+* Articulos IA [link 1]( ).
+* Formulario Inscripcion Grupos  [link 2]( ).
 
 ### Rubricas
 
-* Presentaciónes articulos cientificos [link 1](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
-* Proyecto final [link 2](https://www.dropbox.com/scl/fo/o77x9kxwgd9jpmd30gvpe/h?rlkey=rdn6kfruhew671obbi3nkptak&dl=0).
-* Control programación ChatBot-NLP [link 3](https://www.dropbox.com/scl/fi/m44dpyxfz8ahdskggm46g/FORMATO_EVALUACION_-MODULO1.pdf?rlkey=kzmoerkempa3j98vu5rlms9cb&st=7wr7yclo&dl=0)
-### Clases videos
+* Control programación ChatBot-NLP (2026) [link 1](https://www.dropbox.com/scl/fo/bme0ye6xcitg2ne5k9zjn/AHxWPeXQKJa05iy1GyPa1Ck?rlkey=ra98691r0p6bwrz444tl3s3lw&dl=0)
+* Presentaciónes articulos cientificos (2026) [link 2](https://www.dropbox.com/scl/fo/p5vl0kwbbn5ya7n2o74hd/AO-DxHs3OzgZNm7M-cJT4SA?rlkey=gc0tmycb3mkodz7a1cqu5286g&dl=0).
+* Proyecto final (2026) [link 3]( ).
 
-* Links [link 1]().
 
-### Link Carpeta Proyecto Final aplicado
-
-[Google drive](https://drive.google.com/drive/folders/1wfeRHmjXD0cMt3qgyF1PPiK7jM9AoWND?usp=drive_link)
 
 
 
