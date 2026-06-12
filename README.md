@@ -58,7 +58,7 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 
 * Control programación ChatBot-NLP (2026) [link 1](https://www.dropbox.com/scl/fo/bme0ye6xcitg2ne5k9zjn/AHxWPeXQKJa05iy1GyPa1Ck?rlkey=ra98691r0p6bwrz444tl3s3lw&dl=0)
 * Presentaciónes articulos cientificos (2026) [link 2](https://www.dropbox.com/scl/fo/p5vl0kwbbn5ya7n2o74hd/AO-DxHs3OzgZNm7M-cJT4SA?rlkey=gc0tmycb3mkodz7a1cqu5286g&dl=0).
-* Proyecto final (2026) [link 3]( ).
+* Proyecto final (2026) [link 3](https://www.dropbox.com/scl/fi/zxui18b6q0i6w8lrkplnl/rubrica_proyecto_ia.pdf?rlkey=zhvoskng5hfkbcwvuyykyoya6&dl=0).
 
 
 
