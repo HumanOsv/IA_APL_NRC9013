@@ -34,6 +34,8 @@ Los contenidos de la asignatura son:
   * Procesamiento de datos satelitales. Análisis de imágenes de satélites para agricultura, meteorología, etc.
 
   * Casos de uso de IA. Asistentes virtuales, vehículos autónomos, detección de fraudes, etc.
+    
+  * El fine-tuning (o ajuste fino), proceso de tomar un modelo de inteligencia artificial preentrenado y continuar su entrenamiento con un conjunto de datos más pequeño. 
 
 Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los conceptos y métodos para aplicarlos a IA. El método de enseñanza se centra en la revisión del desempeño o de control del estudiante, a partir de, la exposición del docente y posterior evaluación formativa y sumativa de las actividades desarrolladas en conjunto con el docente, en grupos colaborativos e individualmente; prevaleciendo el trabajo autónomo de cada estudiante.
 
