@@ -48,6 +48,7 @@ Esta asignatura es de carácter teórico-práctico, en la que se desarrollan los
 * Procesamiento del lenguaje natural [link 3](https://www.dropbox.com/scl/fo/6mw0jyak8emp4iztml3ow/AIWBybYaIMxrGE6-Kyu30hE?rlkey=hosoo1jr0gkrgtzmtt9igfi2n&dl=0).
 * Vision Computacional [link 4](https://www.dropbox.com/scl/fo/otbdm1hpse8n0xlanqd3e/AEEIADYb_Ow9jZjfgJ6g7Dg?rlkey=dh6rxtgtpu14g6tkdw2ca1dex&dl=0)
 * Inteligencia Artificial en Geomática y Agricultura de Precisión [link 5](https://www.dropbox.com/scl/fo/lxa64mrj61mojsp2fc9rq/AF2lQ81Ghgpc2KrVv3sUZzo?rlkey=0wxknfsw19bvwj9djs0nczaz8&dl=0)
+* Fine-Tuning de LLMs [link 6](https://www.dropbox.com/scl/fo/wwmt0e28rrhnq0thkhplv/AHqnfdI6l4cbI-pyHXlAas0?rlkey=dr6jvmfp01aq970aiem6f6arq&dl=0)
 
 ### Articulos Presentaciones
 
